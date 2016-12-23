@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><link rel="stylesheet" type="text/css" href="../css/style.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>template</title>
+</head>
+
+<body>
+<h1>CossiePlay
+
+</h1>
+<table width="99%" height="60" border="1">
+  <tr>
+    <td><a href="../whatiscosPlay.html">Home</a></td>
+    <td><a href="../aboutcossieplay.html">About CossiePlay</a></td>
+    <td><a href="../contact.html">Contact</a></td>
+    <td><a href="../announcements.html">Announcements</a></td>
+    <td><a href="../partyguidelines.html">Party Guidelines</a></td>
+    <td><a href="../signup.html">Sign-Up</a></td>
+
+    <td><a href="../links.html">Links</a></td>
+  </tr>
+</table>
+<!-- TemplateBeginEditable name="EditRegion1" -->
+<table width="100%" border="1">
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<!-- TemplateEndEditable -->
+</body>
+</html>
